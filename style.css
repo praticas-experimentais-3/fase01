@@ -1,0 +1,7 @@
+display: grid;
+width: 1280px;
+height: 832px;
+row-gap: 10px;
+column-gap: 10px;
+grid-template-rows: repeat(2, minmax(0, 1fr));
+grid-template-columns: repeat(2, minmax(0, 1fr));
